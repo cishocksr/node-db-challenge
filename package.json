@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "server": "nondemon index.js"
+    "server": "nodemon index.js"
   },
   "repository": "git@github.com:cishocksr/node-db-challenge.git",
   "author": "Christopher Shockley <cishockleysr@gmail.com>",
