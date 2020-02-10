@@ -4,5 +4,13 @@
   "main": "index.js",
   "repository": "git@github.com:cishocksr/node-db-challenge.git",
   "author": "Christopher Shockley <cishockleysr@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1",
+    "helmet": "^3.21.2",
+    "knex": "^0.20.9",
+    "morgan": "^1.9.1",
+    "sqlite3": "^4.1.1"
+  }
 }
